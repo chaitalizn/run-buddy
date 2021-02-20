@@ -12,3 +12,5 @@ https://lernantion.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Chaitali
+
+# Run Buddy Inc.
